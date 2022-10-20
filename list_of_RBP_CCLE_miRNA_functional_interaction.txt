@@ -1,0 +1,50 @@
+pri_miRNA	mature_miRNA	CCLE_mature_miRNA	primary_transcript	RBP	function
+hsa-let-7b	hsa-let-7b	hsa-let-7b	FLJ27365	TARDBP	promote
+hsa-mir-663a	hsa-miR-663a	hsa-miR-663		TARDBP	inhibit
+hsa-mir-20b	hsa-miR-20b	hsa-miR-20a+hsa-miR-20b		RBFOX2	inhibit
+hsa-mir-107	hsa-miR-107	hsa-miR-107	PANK1	RBFOX2	inhibit
+hsa-mir-7-1	hsa-miR-7	hsa-miR-7	HNRNPK	ELAVL1	inhibit
+hsa-mir-7-1	hsa-miR-7	hsa-miR-7	HNRNPK	MSI2	inhibit
+hsa-mir-10b	hsa-miR-10b	hsa-miR-10b	HOXD3	SRSF1	promote
+hsa-mir-21	hsa-miR-21	hsa-miR-21	VMP1	R-smad	promote
+hsa-mir-18a	hsa-miR-18a	hsa-miR-18a	MIR17HG	HNRNPA1	promote
+hsa-let-7a-1	hsa-let-7a	hsa-let-7a	RP11-2B6.3	LIN28A	inhibit
+hsa-mir-7-1	hsa-miR-7	hsa-miR-7	HNRNPK	ILF3	inhibit
+hsa-mir-7-1	hsa-miR-7	hsa-miR-7	HNRNPK	ILF2	inhibit
+hsa-mir-15b	hsa-miR-15b	hsa-miR-15b	SMC4	SAFB2	promote
+hsa-mir-132	hsa-miR-132	hsa-miR-132		TARDBP	promote
+hsa-mir-143	hsa-miR-143	hsa-miR-143		TARDBP	promote
+hsa-mir-558	hsa-miR-558	hsa-miR-558	BIRC6	TARDBP	promote
+hsa-mir-574	hsa-miR-574	hsa-miR-574-3p	FAM114A1	TARDBP	promote
+hsa-mir-574	hsa-miR-574	hsa-miR-574-5p	FAM114A1	TARDBP	promote
+hsa-mir-30a	hsa-miR-30a	hsa-miR-30a	RP3-331H24.5	SRSF3	promote
+hsa-let-7a-1	hsa-let-7a	hsa-let-7a	RP11-2B6.3	HNRNPA1	inhibit
+hsa-mir-144	hsa-miR-144	hsa-miR-144	MIR144	ILF3	promote
+hsa-mir-144	hsa-miR-144	hsa-miR-144	MIR144	BUD13	promote
+hsa-mir-210	hsa-miR-210	hsa-miR-210	MIR210HG	BUD13	inhibit
+hsa-mir-20a	hsa-miR-20b	hsa-miR-20a+hsa-miR-20b	MIR17HG	DDX3X	promote
+hsa-mir-210	has-miR-210	hsa-miR-210	MIR210HG	LARP4	promote
+hsa-mir-17	hsa-miR-17	hsa-miR-106a+hsa-miR-17	MIR17HG	SRSF3	promote
+hsa-mir-20a	hsa-miR-20a	hsa-miR-20a+hsa-miR-20b	MIR17HG	SRSF3	promote
+hsa-let-7a-1	hsa-let-7a	hsa-let-7a	RP11-2B6.3	ILF3	inhibit
+hsa-let-7a-1	hsa-let-7a	hsa-let-7a	RP11-2B6.3	ILF2	inhibit
+hsa-mir-133a-1	hsa-miR-133a	hsa-miR-133a	MIR133A1	ILF3	inhibit
+hsa-mir-133a-1	hsa-miR-133a	hsa-miR-133a	MIR133A1	ILF2	inhibit
+hsa-let-7a-1	hsa-let-7a	hsa-let-7a	RP11-2B6.3	KHSRP	promote
+hsa-mir-140	hsa-miR-140	hsa-miR-140-3p	WWP2	CELF1	inhibit
+hsa-mir-140	hsa-miR-140	hsa-miR-140-5p	WWP2	CELF1	inhibit
+hsa-mir-140	hsa-miR-140	hsa-miR-140-3p	WWP2	CELF2	inhibit
+hsa-mir-140	hsa-miR-140	hsa-miR-140-5p	WWP2	CELF2	inhibit
+hsa-mir-199a-2	hsa-miR-199a	hsa-miR-199a-3p+hsa-miR-199b-3p	DNM3OS	PUM1	inhibit
+hsa-mir-199a-2	hsa-miR-199a	hsa-miR-199a-3p+hsa-miR-199b-3p	DNM3OS	PUM1	inhibit
+hsa-mir-199a-2	hsa-miR-199a	hsa-miR-199a-5p	DNM3OS	PUM1	inhibit
+hsa-mir-199a-2	hsa-miR-199a	hsa-miR-199a-3p+hsa-miR-199b-3p	DNM3OS	PUM2	inhibit
+hsa-mir-199a-2	hsa-miR-199a	hsa-miR-199a-3p+hsa-miR-199b-3p	DNM3OS	PUM2	inhibit
+hsa-mir-199a-2	hsa-miR-199a	hsa-miR-199a-5p	DNM3OS	PUM2	inhibit
+hsa-mir-7-1	hsa-miR-7	hsa-miR-7	HNRNPK	ZC3H7A	promote
+hsa-mir-7-1	hsa-miR-7	hsa-miR-7	HNRNPK	ZC3H7B	promote
+hsa-mir-145	hsa-miR-145	hsa-miR-145	MIR145	C9ORF114	promote
+hsa-mir-143	hsa-miR-143	hsa-miR-143		ZC3H10	inhibit
+hsa-mir-29a	hsa-miR-29a	hsa-miR-29a	MIR29B1	TRIM71	promote
+hsa-mir-7-1	hsa-miR-7	hsa-miR-7	HNRNPK	SRSF1	promote
+hsa-mir-29b-2	hsa-miR-29b	hsa-miR-29b	C1orf132	YBX1	inhibit
