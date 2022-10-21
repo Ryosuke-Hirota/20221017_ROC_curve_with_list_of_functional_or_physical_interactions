@@ -1,0 +1,15 @@
+# 20221017_ROC_curve_with_list_of_functional_or_physical_interactions
+
+# 各ファイルの説明
+
+"20221017_ROC_curve_with_list_of_functional_or_physical_interactions.R" 
+機能相互作用あるいは物理的相互作用のあるRBP-miRNAの組み合わせをまとめたリストをもとに、それらの組み合わせを陽性とししてROC曲線を描き、最適なカットオフを求めるスクリプト。
+機能的相互作用のリスト"list_of_RBP_CCLE_miRNA_functional_interaction.txt"、物理的相互作用のリスト"list_of_treiber_physical_interaction_between_RBP_and_miRNA.txt"と
+miRNA生合成効率とRBPの発現量の相関解析の結果が必要。
+
+"list_of_RBP_CCLE_miRNA_functional_interaction.txt"
+機能的相互作用のあるRBPとmiRNAの組み合わせをまとめたリスト。CCLEのmiRNAに対応したリスト(3pと5pの成熟miRNAに対応)。
+
+"list_of_treiber_physical_interaction_between_RBP_and_miRNA.txt"
+Treiber et al (2019)で明らかにされた物理的相互作用のあるRBPとmiRNAの組み合わせをまとめたリスト。CCLEのmiRNAに対応したリスト(3pと5pの成熟miRNAに対応)。
+スクリプト中ではスコアが3より大きいものを使用している。
